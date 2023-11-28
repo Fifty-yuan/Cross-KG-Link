@@ -9,4 +9,6 @@ dfb1-n%done.pt represent DFB-1 with overflap n%;
 
 medicine-n% and wk3l-n%done are the same.
 
-If you have any doubts about the project code, please feel free to ask me through my email： 576276973@qq.com
+Due to file transfer size limitations, only the wk3l and Medicine datasets were placed in the data
+
+If you want the dfb-1 dataset or have any questions about the code, you can contact us via the following email:： 576276973@qq.com
